@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "107340630176",
+    "project_id": "bingo-c9ac5",
+    "storage_bucket": "bingo-c9ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107340630176:android:6140d1e652e32134c4a1c5",
+        "android_client_info": {
+          "package_name": "com.dev.bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107340630176-bfmaj90c8rka6k93f30im1b8h4mi954u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiRqcdPpcl6wK39MfK0hj-bxyIaHYil0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107340630176-bfmaj90c8rka6k93f30im1b8h4mi954u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107340630176:android:ae000fa9408a774cc4a1c5",
+        "android_client_info": {
+          "package_name": "com.dev.bingokotin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107340630176-bfmaj90c8rka6k93f30im1b8h4mi954u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiRqcdPpcl6wK39MfK0hj-bxyIaHYil0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107340630176-bfmaj90c8rka6k93f30im1b8h4mi954u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
